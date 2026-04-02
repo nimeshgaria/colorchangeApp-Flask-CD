@@ -1,7 +1,7 @@
 
 ---
 
-## ⚙️ CI/CD Workflow Explanation
+## ⚙️ CD Workflow Explanation
 
 ### 👨‍💻 1. Developer
 - Writes code and pushes changes to GitHub repository.
